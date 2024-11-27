@@ -40,7 +40,7 @@ body {
 /*header section*/
 .hero_area {
   position: relative;
-  background-color: #78853f;
+  background-color: rgb(117, 182, 204);
   height: 85vh;
 }
 
@@ -53,7 +53,7 @@ body {
 }
 
 .header_section {
-  background-color: #90953b;
+  background-color: lightblue;
 }
 
 .header_section .container-fluid {
@@ -82,7 +82,7 @@ body {
   width: 65%;
   left: 50%;
   height: 2.5px;
-  background-color: #ffff00;
+  background-color: rgb(96, 146, 163);
   bottom: 8px;
   margin: 0 auto;
   display: block;
@@ -174,7 +174,7 @@ a:focus {
 }
 
 .slider_section .detail-box h1 {
-  color: #ffff00;
+  color: white;
   font-size: 1.8rem;
   text-transform: uppercase;
   font-weight: 400;
@@ -198,7 +198,7 @@ a:focus {
 .slider_section .detail-box .btn-box .btn-1 {
   display: inline-block;
   padding: 12px 45px;
-  background-color: #ffff00;
+  background-color:rgb(96, 146, 163);
   color: #050505;
   border-radius: 0;
   text-transform: uppercase;
@@ -237,7 +237,7 @@ a:focus {
   width: 20px;
   height: 20px;
   opacity: 1;
-  background-color: #ffff00;
+  background-color: rgb(96, 146, 163);
   border-radius: 100%;
 }
 
@@ -278,7 +278,7 @@ a:focus {
 }
 
 .offer_section .content-box:hover .img-box {
-  background-color: #8f9440;
+  background-color:#1E90FF;
 }
 
 .offer_section .content-box:hover .img-box svg {
@@ -332,7 +332,7 @@ a:focus {
 .about_section .detail-box a {
   display: inline-block;
   padding: 12px 45px;
-  background-color: #ffff00;
+  background-color: rgb(96, 146, 163)#;
   color: #050505;
   border-radius: 0;
   text-transform: uppercase;
@@ -367,7 +367,7 @@ a:focus {
 
 .client_section .client_container .img-box {
   width: 250px;
-  border: 5px solid #7f7f31;
+  border: 5px solid #87CEFA;
   border-radius: 100%;
 }
 
@@ -387,7 +387,7 @@ a:focus {
 
 .client_section .client_container .detail-box h6 {
   text-transform: uppercase;
-  color: #7f7f31;
+  color: #87CEFA;
 }
 
 .client_section .client_container .detail-box p {
@@ -403,7 +403,7 @@ a:focus {
 .client_section .carousel-control-next {
   width: 50px;
   height: 50px;
-  background-color: #7f7f31;
+  background-color: #87CEFA;
   opacity: 1;
   top: 40%;
   background-repeat: no-repeat;
@@ -550,7 +550,7 @@ a:focus {
   border-radius: 30px;
   color: #050505;
   text-transform: uppercase;
-  background-color: #ffff00;
+  background-color: rgb(96, 146, 163)#;
   -webkit-transform: translate(-102%);
           transform: translate(-102%);
   margin-top: 2.5px;

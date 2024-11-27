@@ -1,6 +1,6 @@
 $white: #fefdfc;
 $black: #050505;
-$colorPrimary: #ffff00;
+$colorPrimary: rgb(96, 146, 163)#;
 
 @mixin main-font {
   font-family: "Roboto", sans-serif;
@@ -280,7 +280,7 @@ a:focus {
 
     &:hover {
       .img-box {
-        background-color: #8f9440;
+        background-color: 	#1E90FF;
 
         svg {
           fill: $white !important;
@@ -362,7 +362,7 @@ a:focus {
 
     .img-box {
       width: 250px;
-      border: 5px solid #7f7f31;
+      border: 5px solid #87CEFA;
       border-radius: 100%;
 
       img {
@@ -381,7 +381,7 @@ a:focus {
 
       h6 {
         text-transform: uppercase;
-        color: #7f7f31;
+        color: #87CEFA;
       }
 
       p {
@@ -399,7 +399,7 @@ a:focus {
   .carousel-control-next {
     width: 50px;
     height: 50px;
-    background-color: #7f7f31;
+    background-color: rgb(89, 145, 163);
     opacity: 1;
     top: 40%;
     background-repeat: no-repeat;
